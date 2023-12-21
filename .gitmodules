@@ -1,0 +1,3 @@
+[submodule "gophers"]
+	path = gophers
+	url = https://github.com/scraly/gophers.git
