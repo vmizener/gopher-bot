@@ -5,6 +5,7 @@ go 1.21.4
 require (
 	github.com/bwmarrin/discordgo v0.27.1
 	github.com/stretchr/testify v1.8.4
+	golang.org/x/text v0.3.3
 )
 
 require (
